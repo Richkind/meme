@@ -1,0 +1,13 @@
+# Workspace version: 1.43.7
+ipykernel==6.29.5
+python-multipart==0.0.9
+fastapi==0.111.0
+databutton==0.38.34
+uvicorn[standard]==0.29.0
+openai
+beautifulsoup4
+requests
+mediapipe
+opencv-python-headless
+pillow
+google-generativeai
